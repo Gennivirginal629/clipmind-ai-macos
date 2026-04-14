@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="ClipMind — Installation on macOS via Terminal (Homebrew Cask)." />
+    <title>ClipMind — Installation Guide</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <section class="hero-landing">
+      <div class="hero-landing-inner">
+        <img class="hero-icon-img" src="icon.webp" alt="" width="176" height="176" decoding="async" />
+        <h1 class="hero-title">ClipMind</h1>
+        <p class="hero-tagline">macOS · AI clipboard manager · Homebrew install</p>
+      </div>
+    </section>
+
+    <div class="wrap">
+      <section class="guide-panel" id="install-terminal" aria-labelledby="install-title">
+        <div class="guide-panel-head">
+          <h2 id="install-title" class="guide-panel-title">Installation Guide</h2>
+          <p class="guide-panel-sub">Step-by-step installation via Terminal</p>
+        </div>
+
+        <ol class="steps guide-steps">
+          <li class="step">
+            <span class="step-num step-num-cmd" aria-hidden="true">⌘</span>
+            <div>
+              <h3>Open Terminal</h3>
+              <p>
+                Press <kbd>⌘</kbd> + <kbd>Space</kbd> to open Spotlight, type <strong>Terminal</strong> and press
+                <kbd>Enter</kbd>.
+              </p>
+            </div>
+          </li>
+          <li class="step">
+            <span class="step-num" aria-hidden="true">2</span>
+            <div>
+              <h3>Install ClipMind</h3>
+              <p>
+                Paste this command and press <kbd>Enter</kbd>. Homebrew will download and install the app; you may be
+                prompted for your Mac password.
+              </p>
+              <div class="code-block" data-copy-as="brew install --cask clipmind">
+                <div class="code-head">
+                  <span class="dots" aria-hidden="true"><span></span><span></span><span></span></span>
+                  <span>Terminal — Install ClipMind</span>
+                  <button type="button" class="copy-btn">Copy</button>
+                </div>
+                <div class="code-body">
+                  <span class="prompt">$</span><code>brew install --cask clipmind</code>
+                </div>
+              </div>
+            </div>
+          </li>
+          <li class="step done">
+            <span class="step-num" aria-hidden="true">✓</span>
+            <div>
+              <h3>Done</h3>
+              <p>
+                When the command finishes, open <strong>ClipMind</strong> from Applications or Spotlight
+                (<kbd>⌘</kbd> + <kbd>Space</kbd>).
+              </p>
+            </div>
+          </li>
+        </ol>
+      </section>
+
+      <section class="section" id="about" aria-labelledby="about-heading">
+        <h2 id="about-heading">About this app</h2>
+        <div class="card">
+          <p class="lead">
+            ClipMind is a fast, privacy-first clipboard manager for macOS with built-in AI — history, search, rewrite,
+            summarize, translate, and grammar fixes from the menu bar.
+          </p>
+          <div class="features">
+            <div class="feature">
+              <h3>Clipboard history</h3>
+              <p>Nothing you copy is lost; everything stays searchable.</p>
+            </div>
+            <div class="feature">
+              <h3>AI actions</h3>
+              <p>Rewrite, summarize, translate, fix grammar without switching apps.</p>
+            </div>
+            <div class="feature">
+              <h3>Privacy</h3>
+              <p>Local-first storage; no tracking in the product vision.</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section" id="information" aria-labelledby="info-heading">
+        <h2 id="info-heading">Information</h2>
+        <div class="card">
+          <dl class="specs">
+            <div><dt>Name</dt><dd>ClipMind</dd></div>
+            <div><dt>Platform</dt><dd>macOS</dd></div>
+            <div><dt>Homebrew Cask</dt><dd>clipmind</dd></div>
+            <div><dt>Install command</dt><dd><code>brew install --cask clipmind</code></dd></div>
+            <div><dt>Category</dt><dd>Productivity · clipboard</dd></div>
+            <div><dt>Status</dt><dd>Pre-release</dd></div>
+          </dl>
+          <div class="tag-row">
+            <span class="tag">clipboard</span>
+            <span class="tag">ai</span>
+            <span class="tag">menu-bar</span>
+            <span class="tag">homebrew</span>
+          </div>
+        </div>
+      </section>
+    </div>
+
+    <script src="script.js" defer></script>
+  </body>
+</html>
